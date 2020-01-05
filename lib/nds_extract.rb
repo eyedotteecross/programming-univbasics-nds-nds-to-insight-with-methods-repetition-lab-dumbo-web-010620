@@ -25,7 +25,9 @@ totals = {}
 totals
 end 
 
-def total_gross(par)
+def total_gross(nds)
+grosses = directors_totals(nds) # hash w/ directors' grosses
+
 
 binding.pry 
 end 
