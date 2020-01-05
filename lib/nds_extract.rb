@@ -26,7 +26,7 @@ totals
 end 
 
 def 
-  
+binding.pry 
 end 
 
-binding.pry
+
