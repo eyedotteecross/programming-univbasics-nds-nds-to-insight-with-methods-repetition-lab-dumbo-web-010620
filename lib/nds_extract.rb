@@ -28,8 +28,13 @@ end
 def total_gross(nds)
 grosses = directors_totals(nds) # hash w/ directors' grosses
 grosses.values.reduce {|sum,director_gross| sum += director_gross}
+end
 
-#binding.pry 
+def list_of_directors(aoh)
+  
 end 
 
 
+
+
+#binding.pry 
