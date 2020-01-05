@@ -25,7 +25,8 @@ totals = {}
 totals
 end 
 
-values → arrayclick to toggle source
-Returns a new array populated with the values from hsh. See also Hash#keys.
+def 
+  
+end 
 
 binding.pry
