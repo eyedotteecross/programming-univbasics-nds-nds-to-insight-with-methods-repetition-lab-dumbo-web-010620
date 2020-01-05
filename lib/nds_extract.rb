@@ -25,4 +25,6 @@ totals = {}
 totals
 end 
 
+
+
 binding.pry
