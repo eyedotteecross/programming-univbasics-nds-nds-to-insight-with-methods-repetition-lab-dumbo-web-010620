@@ -31,10 +31,9 @@ grosses.values.reduce {|sum,director_gross| sum += director_gross}
 end
 
 def list_of_directors(aoh)
+binding.pry 
   
 end 
 
 
 
-
-#binding.pry 
