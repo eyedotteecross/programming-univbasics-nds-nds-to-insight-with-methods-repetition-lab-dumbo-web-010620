@@ -25,7 +25,8 @@ totals = {}
 totals
 end 
 
-def 
+def total_gross(par)
+
 binding.pry 
 end 
 
