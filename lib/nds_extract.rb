@@ -32,8 +32,8 @@ end
 
 def list_of_directors(aoh)
 aoh.map {|hash| hash[:name]}   
-#binding.pry 
 end 
 
+#binding.pry 
 
 
